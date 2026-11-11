@@ -18,4 +18,6 @@ Jumlah order dengan status Complete yang tercatat adalah 80.000 order
 
 ### 2. 
 
-## Key tasknya
+## Key takeways
+
+Ada 80.000 order
